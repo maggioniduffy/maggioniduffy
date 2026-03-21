@@ -11,8 +11,6 @@
 ### 📜 Education
   * One semester scolarship at <a href="https://www.itba.edu.ar/"> *Instituto Tecnologico Buenos Aires*. </a>
   * Bachelor Degree in Computer Science at <a href="https://www.uncoma.edu.ar"> *Universidad Nacional del Comahue*. </a>
-### 🍉 My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maggioniduffy&theme=dark&background=000000)](https://git.io/streak-stats)
 ### 🔭 My current stack:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
